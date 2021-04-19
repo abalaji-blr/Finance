@@ -2,9 +2,21 @@
 
 ## Resources
 
+## Books
+
+
+
 * [Economics : The Remarkable Story Of How The Economy Works | Ben Matthew](https://amzn.to/3a7tXJe)
+* [The Pyschology of Money | Morgan Housel](https://amzn.to/32pbcg7)
+
+
+
+## Blogs
 
 * [Recommendations from Ben Matthew](http://www.benmatheweconomics.com/recommended.html)
+* 
+
+## Videos
 
 * **Video | Commanding Heights : The Battle for the World Economy | 3 Episodes**
 
