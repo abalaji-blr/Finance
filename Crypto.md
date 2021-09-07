@@ -39,17 +39,21 @@ This is the **second generation of crypto currency**, which can be **transacted*
 
 ### What is Ethereum?
 
-
-
 <iframe width="360" height="215" src="https://www.youtube.com/embed/IsXvoYeJxKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [100+ Ethereum Apps You Can Use Right Now](https://consensys.net/blog/news/90-ethereum-apps-you-can-use-right-now/)
 
+### What is ERC20?
+
+ERC20 stands for **Ethereum Request for Comment-20** is a standard created for interoperability of tokens created using Ethereum network. There are many popular tokens which confirms to **ERC20** .
+
+
+
 ## Cardano (ADA)
 
-Cardano is **3rd generation of crypto currency**, which tries to solve the bottle-necks with Ethereum. Incidentally, one of co-founder of the Ethereum - Chrales Hoskinson, is the co-founder for Cardano as well.
+Cardano is **3rd generation of crypto currency**, which tries to solve the bottle-necks with Ethereum. Incidentally, one of **co-founder of the Ethereum - Chrales Hoskinson, is the co-founder for Cardano as well**.
 
-It tries to address - **scalabilty( transactions-per-second, data, network), interoperability, and sustainability**.
+It tries to address - **scalabilty( transactions-per-second, data, network), interoperability( to work with different block-chains like bitcoin-block-chain, ethereum-block-chain etc), and sustainability**.
 
 
 
@@ -58,6 +62,16 @@ It tries to address - **scalabilty( transactions-per-second, data, network), int
 
 
 ## Polygon (MATIC)
+
+Polygon (Previously called as Matic Network) Technology is trying to address the issue of **inter-operability** (to work with multiple block-chains) **for the Ethereum**. They have a notion of **side-chain** to address that.
+
+**Polygon** is a protocol and framework for building and connecting **Ethereum compatible** blockchain networks. It's **native token is called, MATIC**.
+
+The following other companies also address the multi chain system are : **Polkadot, Cosmos and Avalanche**.
+
+* [What is Matic Network?](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1)
+
+  
 
 ## Ripple (XRP)
 
