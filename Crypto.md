@@ -77,10 +77,18 @@ The following other companies also address the multi chain system are : **Polkad
 
 Ripple is **NOT** block chain based. It's meant for larger companies and corporations.
 
-# References
 
+
+# References / Materials
+
+* [Block Chain Fundatmentals](./BlockchainFunda.md)
 * Etherenum
   * [Ethereum Website](www.etherenum.org)
   * [How Etherenum works: Pretthi Kasireddy](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
   * 
 
+## Papers
+
+* [Bitcoin: A Peer-to-Peer Electronic Cash System by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)
+* [New Directions in Cryptography - Asymmetric Encryption - Public and Private keys](https://ee.stanford.edu/~hellman/publications/24.pdf)
+* 
