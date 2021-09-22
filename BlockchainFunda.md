@@ -151,7 +151,27 @@ The mining process is expensive and that is one reason not all participate in mi
 
 ---
 
+## Mechanics of Bitcoin
 
+### How Bitcoin blocks are represented?
+
+Bitcoin block has **block-header** and **transactions**. 
+
+The block header has the following: Hash from the prev block, meta data, nonce, and merkel root.
+
+The **merkel root** holds all the trnsactions.
+
+ [Check this blog for futher details](https://marcsteiner.tech/blog/description-of-bitcoin-blocks-and-transactions)
+
+![See this picture for visualization](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bitcoin_Block_Data.png)
+
+
+
+---
+
+
+
+ 
 
 
 
