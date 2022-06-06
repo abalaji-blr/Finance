@@ -21,7 +21,8 @@ All these crypto tokens are stored in **block chain**.
 
 ## How does blockchain work?
 
-<iframe width="360" height="115" src="https://www.youtube.com/embed/SSo_EIwHSd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://www.youtube.com/embed/SSo_EIwHSd4"></iframe>
 
 ## Bitcoin (BTC)
 
