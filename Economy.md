@@ -23,7 +23,7 @@
 
 
 
-* **Video | Commanding Heights : The Battle for the World Economy | 3 Episodes**
+* **Video | Commanding Heights: The Battle for the World Economy | 3 Episodes**
 
   * [Episode 1: The Battle of Ideas ](https://www.youtube.com/watch?v=gfRTpoYpHfw)
 
@@ -41,9 +41,15 @@
 
 * [Coffee Can Investing | Saurabh Mukherjea](https://amzn.to/32PDsss)
 
-* [The Unusal Billionaires | Saurabh Mukherjea](https://amzn.to/3njRjRj)
+* [The Unusual Billionaires | Saurabh Mukherjea](https://amzn.to/3njRjRj)
 
 * 
 
   
 
+### For Stock Selection
+
+* [Tickertape](www.tickertape.com)
+* [Charts, Tradingview](www.tradingview.com)
+* [For Fundamentals, Try Screener](www.screener.com)
+* 

@@ -79,13 +79,26 @@ Ripple is **NOT** block chain based. It's meant for larger companies and corpora
 
 
 
-# References / Materials
+# References / Materials / Lectures
 
 * [Block Chain Fundatmentals](./BlockchainFunda.md)
 * Etherenum
   * [Ethereum Website](www.etherenum.org)
   * [How Etherenum works: Pretthi Kasireddy](https://preethikasireddy.medium.com/how-does-ethereum-work-anyway-22d1df506369)
-  * 
+
+* [VC Firm: Marc Andreessen & Ben Horowitz - Crypto Startup School](https://a16z.com/crypto-startup-school/)
+
+* [Dan Boneh - Lectures at Standford CS251]
+
+  * [Dan Boneh - Youtube : ](https://www.youtube.com/watch?v=V0JdeRzVndI)
+
+  * <iframe width="560" height="315" src="https://www.youtube.com/embed/V0JdeRzVndI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  * [Standford CS251 - Lecture Series](https://cs251.stanford.edu/syllabus.html)
+
+    
+
+  
 
 ## Papers
 
