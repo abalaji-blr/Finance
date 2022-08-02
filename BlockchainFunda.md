@@ -96,7 +96,7 @@ A digital signature scheme consists of following three algorithms:
 
 Bitcoin uses a particular digital signature scheme known as **Elliptic Curve Digital Signature Algorithm** ( **ECDSA**). 
 
-For more info, [check wikipedia](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
+For more info, [check Wikipedia](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm)
 
 ---
 
@@ -112,18 +112,18 @@ For more info, [check wikipedia](https://en.wikipedia.org/wiki/Elliptic_Curve_Di
 
 ### How Bitcoin is able to reach distributed consensus?
 
-* By providing financial incentives which makes the participants to work together.
-* Arrive consensus over large time scale.
+* Providing financial incentives which make the participants work together.
+* Arrive consensus over a large time scale.
 
 ---
 
 ### What are the incentives for the block creators in Bitcoin?
 
-Two sperate incentive mechanisms are used in Bitcoin.
+Two separate incentive mechanisms are used in Bitcoin.
 
 1) **Block Reward:**
 
-   The node which creates a block gets to include a special transaction called **coin-creation** transaction in that block. **Every 210,000 blocks, the block creation reward is halved** (approx. every 4 years). It started with 50BTC during inception 2009. As of 2021, the block creation reward is halved third time at 6.25BTC.
+   The node which creates a block gets to include a special transaction called **coin-creation** transaction in that block. **Every 210,000 blocks, the block creation reward is halved** (approx. every 4 years). It started with 50BTC during its inception in 2009. As of 2021, the block creation reward is halved for the third time at 6.25BTC.
 
    Aprox. year: 2000 ->  2013 -> 2017 -> 2020 ...
 
@@ -137,7 +137,7 @@ Two sperate incentive mechanisms are used in Bitcoin.
 
 ### What is Proof of Work in Bitcoin?
 
-As the block creation results in reward and to avoid the nodes from gaming (manipulating) the system, the block creator node has to solve **hash puzzles**. The node has to find a **nonce (a small number, number used only once)**, which needs to be concatenated with previous hash value and all transactions and their hash value should be in target space.
+As the block creation results in a reward and to avoid the nodes from gaming (manipulating) the system, the block creator node has to solve **hash puzzles**. The node has to find a **nonce (a small number, a number used only once)**, which needs to be concatenated with the previous hash value and all transactions and their hash value should be in the target space.
 
 $H(nounce || previous\_hash || tx1 || tx2 || ... || tx) < target$
 
@@ -145,9 +145,9 @@ $H(nounce || previous\_hash || tx1 || tx2 || ... || tx) < target$
 
 ### What is Bitcoin mining?
 
-The process of repeatedly trying and solving the **hash puzzles** is known as **Bitcoin mining**. It takes a lot of compute power (many trials) to find the **nonce** which can fall in the target space, which is outside the relam of possibility for a laptop. Hence, the nodes will deploy more powerful compute machines for mining. These nodes are called as **miners**. 
+The process of repeatedly trying and solving the **hash puzzles** is known as **Bitcoin mining**. It takes a lot of computing power (many trials) to find the **nonce** which can fall in the target space, which is outside the realm of possibility for a laptop. Hence, the nodes will deploy more powerful compute machines for mining. These nodes are called miners**. 
 
-The mining process is expensive and that is one reason not all participate in mining. Due to high cost of mining the power has been concentrated in the mining ecosystem.
+The mining process is expensive and that is one reason not all participate in mining. Due to the high cost of mining the power has been concentrated in the mining ecosystem.
 
 ---
 
@@ -155,13 +155,13 @@ The mining process is expensive and that is one reason not all participate in mi
 
 ### How Bitcoin blocks are represented?
 
-Bitcoin block has **block-header** and **transactions**. 
+Bitcoin block has a block header and **transactions**. 
 
-The block header has the following: Hash from the prev block, meta data, nonce, and merkel root.
+The block header has the following: Hash from the prev block, metadata, nonce, and Merkel root.
 
-The **merkel root** holds all the trnsactions.
+The **Merkel root** holds all the transactions.
 
- [Check this blog for futher details](https://marcsteiner.tech/blog/description-of-bitcoin-blocks-and-transactions)
+ [Check this blog for further details](https://marcsteiner.tech/blog/description-of-bitcoin-blocks-and-transactions)
 
 ![See this picture for visualization](https://upload.wikimedia.org/wikipedia/commons/7/7a/Bitcoin_Block_Data.png)
 
