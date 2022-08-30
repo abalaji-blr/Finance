@@ -2,8 +2,11 @@
 
 ####Books
 
-* [Economics : The Remarkable Story Of How The Economy Works | Ben Matthew](https://amzn.to/3a7tXJe)
-* [The Psychology of Money | Morgan Housel](https://amzn.to/32pbcg7)
+* [Economics: The Remarkable Story Of How The Economy Works | Ben Matthew](https://amzn.to/3a7tXJe)
+* [Khan Academy - Macroeconomics - Video Series](https://www.khanacademy.org/economics-finance-domain/macroeconomics)
+* [The Psychology of Money | Morgan Housel](https://amzn.to/32pbcg7) | [Video Summary](https://www.youtube.com/watch?v=TJDcGv9OH4Q)
+* The Undercover Economist - **Tim Harford** | [Video Summary]
+* Mastering the Market Cycles - **Howard Marks** | [Video Summary](https://www.youtube.com/watch?v=ebWL2TrIssA&t=17s)
 
 
 
@@ -14,6 +17,10 @@
 
 
 * [What is Macroeconomics?](https://www.economicshelp.org/blog/141461/economics/branches-of-economics/)
+
+  * ![](https://i0.wp.com/marketbusinessnews.com/wp-content/uploads/2017/01/Macroeconomics.jpg?w=599&ssl=1)
+
+  * [Market Business News Article](https://marketbusinessnews.com/financial-glossary/macroeconomics-definition-meaning/)
 
   * Type of Macroeconomics
 
@@ -38,7 +45,9 @@
   * 
 
 * [Recommendations from Ben Matthew](http://www.benmatheweconomics.com/recommended.html)
+
 * [America's Debt: $27 Trillion and Counting | Visual Charts](https://www.visualcapitalist.com/americas-debt-27-trillion-and-counting/)
+
 * 
 
 #### Videos
